@@ -1,0 +1,15 @@
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\obj\x86\Debug\VIvacity TTS.vbproj.ResolveComReference.cache
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\bin\Debug\VIvacity TTS.exe
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\bin\Debug\VIvacity TTS.pdb
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\bin\Debug\VIvacity TTS.xml
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\obj\x86\Debug\VIvacity_TTS.FormTTS.resources
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\obj\x86\Debug\VIvacity_TTS.Resources.resources
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\obj\x86\Debug\VIvacity TTS.vbproj.GenerateResource.Cache
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\obj\x86\Debug\VIvacity TTS.exe
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\obj\x86\Debug\VIvacity TTS.xml
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\obj\x86\Debug\VIvacity TTS.pdb
+C:\Users\Utente\Desktop\VIVACITY DESIGN\SVILUPPO\VIvacity TTS\VIvacity TTS\bin\Debug\VIvacity TTS.exe.config
